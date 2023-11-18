@@ -2,8 +2,8 @@
   "Data": [
     {
       
-      "suspended": false,
-      "newOne": "https://play.google.com/store/apps/details?id=www.google.com"
+      "suspended": true,
+      "newOne": "https://play.google.com/store/apps/details?id=xyz.cinedata.tmdb&gl=pt&hl=pt"
       
         
     }
